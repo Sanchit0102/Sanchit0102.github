@@ -7,6 +7,7 @@ author: 13579
 ---
 
 # Welcome
+... Shit 
 
 # About
 WZML-X is a ..
