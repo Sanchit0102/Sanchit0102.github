@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fab fa-twitter"
+- type: telegram
+  icon: 'fab fa-telegram'
+  url:  'https://telegram.me/SilentDemonSD'
 
 - type: email
   icon: "fas fa-envelope"
@@ -12,7 +13,8 @@
 
 - type: rss
   icon: "fas fa-rss"
-  noblank: true
+  noblank: true 
+  
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
