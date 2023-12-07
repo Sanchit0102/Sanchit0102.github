@@ -18,12 +18,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mystery Paradox Space # the main title
+title: MysterySD's Paradox # the main title
 
-tagline: Life is Full of Unimaginable consequences, I am Letting it thrive ...# it will display as the sub-title
+tagline: Moving forward, with Learning and Making Interesting things..
 
 description: >- # used by seo meta and the atom feed
-  Mystery Space is Collaborations and Collection of My Projects on Various Fields
+  Mystery Space is Site for all of my Collaborations and Collection of My Projects on Various Fields
 
 url: "https://SilentDemonSD.github.io"
 
@@ -97,9 +97,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: SilentDemonSD/SilentDemonSD.github.io
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDOJw_PXw
+    category: Announcements
+    category_id: DIC_kwDOJw_PX84Cbkd1
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
